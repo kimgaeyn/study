@@ -1,31 +1,13 @@
-# 가장 큰 제목
-## 중간 제목
-### 작은 제목
-그냥 나부랭이
+# Linear Algerbra Midterm review
 
-**굵게**
-*기울임*
-~~취소선~~
+## 전반적인 회고
+* 강의자료 빠삭하게 체화
+* 실생활 예시, 직관적인 의미, 시각화 중요함
+* 시험 볼 때 너무 멀리 가지 말자..
+* 중간고사 문제 중 한 문제는 기말 때 거의 비슷하게 출제
 
-* 항목1
-* 항목2
-  * 서브항목
+## 1. 키워드 8개 적기 = 목차 적기
+* Vector, Norm, Equations of Line and Plane, Linear system of Equations, Matrix, Determinant, Eigenvalues, PCA
 
-1. 첫번째
-2. 두번째
-
-이 함수는 'console.log()'를 사용합니다
-
-
-python
-'''
-print('hi')
-'''
-
->인용
-
--[ ] 체크박스
--[x] 완료
-
-|제목|제목|제목|
-|ㅇㅇ|ㅇㅇ|ㅇㅇ|
+## 2. 설명하고 증명하기 (Explain and prove)
+* 
