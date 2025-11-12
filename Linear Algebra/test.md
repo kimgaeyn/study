@@ -17,8 +17,8 @@
 이 함수는 'console.log()'를 사용합니다
 
 
-
-'''python
+python
+'''
 print('hi')
 '''
 
